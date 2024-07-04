@@ -1,12 +1,15 @@
+**Bilata Wodisha**
 - 👋 Hi, I’m **Bilata Wodisha** (@billataWo), a passionate developer from Addis Ababa, Ethiopia.
+**About Me**
+I specialize in mobile and web development, with a focus on creating user-friendly and secure applications.
 - 👀 I’m interested in Mobile app development, web development,...
 - 🌱 I’m currently learning and working ...
 - 💞️ I’m looking to collaborate on ...
-- **✨✨Skills✨✨**
+**✨✨Skills✨✨**
 - Mobile Development: **_Flutter, Firebase_**
 - Web Development: **_JavaScript, React, HTML, CSS_**
 - API Integration: **_Restful APIs_**
-- 📫 How to reach me email: _12mastwal@gmail.com_
+📫 How to reach me email: _12mastwal@gmail.com_
 ✨✨✨✨✨✨✨✨✨Phone1: _+251799007486_
 ✨✨✨✨✨✨✨✨✨Phone2: _+251935047486_
                       
