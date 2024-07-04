@@ -1,10 +1,11 @@
-- 👋 Hi, I’m @billataWo
+- 👋 Hi, I’m **Bilata Wodisha** @billataWo 
 - 👀 I’m interested in Mobile app development, web development,...
 - 🌱 I’m currently learning and working ...
 - 💞️ I’m looking to collaborate on ...
+- ✨✨ here are my top skills **Flutter**, **Firebase**, **Restful API**, **JavaScript**, **React**, **HTML**, **CSS**..
 - 📫 How to reach me email: 12mastwal@gmail.com
-                      Phone1: +251799007486
-                      Phone2: +251935047486
+✨✨✨✨✨✨✨✨✨Phone1: +251799007486
+✨✨✨✨✨✨✨✨✨Phone2: +251935047486
                       
 <!---
 billataWo/billataWo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
