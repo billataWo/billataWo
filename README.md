@@ -11,9 +11,8 @@ I specialize in mobile and web development, with a focus on creating user-friend
 - Mobile Development: **_Flutter, Firebase_**
 - Web Development: **_JavaScript, React, HTML, CSS_**
 - API Integration: **_Restful APIs_**
-- 📫 How to reach me email: _12mastwal@gmail.com_
-✨✨✨✨✨✨✨✨✨Phone1: _+251799007486_
-✨✨✨✨✨✨✨✨✨Phone2: _+251935047486_
+
+
 [here](https://billataWo.github.io/I-m-developer/).
 ![Interactive Introduction](path/to/your/animation.gif)
                       
