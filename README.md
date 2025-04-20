@@ -13,7 +13,7 @@ I specialize in mobile and web development, with a focus on creating user-friend
 - API Integration: **_Restful APIs_**
 
 
-[here](https://billataWo.github.io/I-m-developer/).
+[here](#https://billataWo.github.io/I-m-developer/).
 ![Interactive Introduction](path/to/your/animation.gif)
                       
 <!---
